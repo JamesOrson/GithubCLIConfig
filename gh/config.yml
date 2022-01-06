@@ -1,0 +1,5 @@
+git_protocol: ssh
+editor: vi
+prompt: enabled
+pager: less -R
+
